@@ -1,44 +1,44 @@
 [Peru]
 Peru-[0:9].dominio.es
 [Brasil]
-Brasil-[a:j].uclm.es
+Brasil-[a:j].dominio.es
 [Chile]
-[a:e]-Chile-[0:1].uclm.es
+[a:e]-Chile-[0:1].dominio.es
 
 [China]
 China-[0:9].dominio.es
 [Japon]
-Japon-[a:j].uclm.es
+Japon-[a:j].dominio.es
 [Mongolia]
-[a:e]-Mongolia-[0:1].uclm.es
+[a:e]-Mongolia-[0:1].dominio.es
 
 [Islandia]
 Islandia-[0:9].dominio.es
 [Portugal]
-Portugal-[a:j].uclm.es
+Portugal-[a:j].dominio.es
 [Italia]
-[a:e]-Italia-[0:1].uclm.es
+[a:e]-Italia-[0:1].dominio.es
 
 [Marruecos]
 Marruecos-[0:9].dominio.es
 [Tunez]
-Tunez-[a:j].uclm.es
+Tunez-[a:j].dominio.es
 [Senegal]
-[a:e]-Senegal-[0:1].uclm.es
+[a:e]-Senegal-[0:1].dominio.es
 
 [Australia]
 Australia-[0:9].dominio.es
 [NuevaZelanda]
-NuevaZelanda-[a:j].uclm.es
+NuevaZelanda-[a:j].dominio.es
 [Samoa]
-[a:e]-Samoa-[0:1].uclm.es
+[a:e]-Samoa-[0:1].dominio.es
 
 [UK]
 UK-[0:9].dominio.es
 [Noruega]
-Noruega-[a:j].uclm.es
+Noruega-[a:j].dominio.es
 [Francia]
-[a:e]-Francia-[0:1].uclm.es
+[a:e]-Francia-[0:1].dominio.es
 
 [America:children]
 Peru
